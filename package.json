@@ -1,0 +1,12 @@
+{
+  "name"          : "rxjs-node",
+  "description"   : "Reactive Extensions for JavaScript bindings for node.js",
+  "licenses"      : [ { "type": "Apache", "url": "http://www.apache.org/licenses/LICENSE-2.0" } ],  
+  "url"           : "http://github.com/reactive-extensions/l2o-js",
+  "keywords"      : ["LINQ", "functional", "JavaScript"],
+  "author"        : "Matthew Podwysocki <matthewp@microsoft.com>",
+  "contributors"  : [],
+  "dependencies"  : [],
+  "lib"           : ".",
+  "version"       : "0.0.1"
+}

@@ -1,0 +1,1 @@
+This project provides Reactive Extensions for JavaScript (RxJS) bindings for node.js to abstract over the core modules such as http, file, and more to bring the power of RxJS to Node.  The Reactive Extensions are not included with this release and must be installed separately.
