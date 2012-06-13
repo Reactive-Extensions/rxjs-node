@@ -1,0 +1,7 @@
+lib/rx.min.js
+lib/rx.aggregates.min.js
+lib/rx.joinpatterns.min.js
+lib/rx.coincidence.min.js
+lib/rx.time.min.js
+lib/rx.experimental.min.js
+*~
